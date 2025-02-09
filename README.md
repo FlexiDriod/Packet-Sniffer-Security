@@ -1,8 +1,8 @@
-# 🚀 Internet Packet Sniffer - Advanced Network Traffic Analyzer 🔍
+# 🚀 Internet Packet Sniffer - Network Traffic Analyzer 🔍
 
 ## 🌐 Overview
 
-**Internet Packet Sniffer** is a high-performance **network traffic analyzer** for **Windows**. Built using **C++**, it captures live network packets, detects **malicious activities**, and integrates **GeoIP location tracking** with **PostgreSQL/PostGIS**. Designed for **cybersecurity professionals**, this tool helps analyze **DDoS attacks, port scans, TLS handshakes, and blocklisted IPs** in real-time.
+**Internet Packet Sniffer** is a **network traffic analyzer** for **Windows**. Built using **C++**, it captures live network packets, detects **malicious activities**, and integrates **GeoIP location tracking** with **PostgreSQL/PostGIS**. Designed for **cybersecurity professionals**, this tool helps analyze **DDoS attacks, port scans, TLS handshakes, and blocklisted IPs** in real-time.
 
 ## 🔥 Features
 
